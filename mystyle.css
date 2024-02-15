@@ -1,0 +1,54 @@
+.tableth{
+    margin: 10px;
+    padding: 10px;
+    border: 0px solid red;
+    background-color: lightblue;
+}
+.tableth tr{
+    border: 1px solid black;
+    
+    
+}
+.tableth td{
+    border: 0px solid black;
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+.tableth td input{            
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+.tableth td button{            
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.col2x input{
+    width: 100%;
+}
+.col2x button{
+    width: 100%;
+}
+tr{
+    height: 80px;
+}
+.topbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+}
+.topbar a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.redtable{
+    background-color: lightcoral;
+}
